@@ -2,18 +2,6 @@
 For the brain encoding task, subjects played the Shinobi video game while corresponding video data was recorded. We utilized a self-supervised generative model (GPT-2) to extract efficient spatiotemporal features from these videos. During the training process, the model aimed to predict the next sequence of frames based on the previous sequence of frames. Subsequently, we trained a Ridge regression model to predict brain activity based on these extracted features. 
 
 
-<div style="display: flex; gap: 10px;">
-  <img src="R_predicted frames/1.gif" width="400" height="400" alt="GIF 1">
-  <img src="R_predicted frames/2.gif" width="400" height="400" alt="GIF 2">
-  <img src="R_predicted frames/3.gif" width="400" height="400" alt="GIF 3">
-<img src="R_predicted frames/4.gif" width="400" height="400" alt="GIF 1">
-  <img src="R_predicted frames/5.gif" width="400" height="400" alt="GIF 2">
-  <img src="R_predicted frames/6.gif" width="400" height="400" alt="GIF 3">
-<img src="R_predicted frames/7.gif" width="400" height="400" alt="GIF 1">
-  <img src="R_predicted frames/8.gif" width="400" height="400" alt="GIF 2">
- 
-</div>
-
 
 ## Brain Encoding Maps for Different Scenarios of Data Size and Model Parameters
 
@@ -169,6 +157,17 @@ The codebook update mechanism follows an exponential moving average (EMA):
 \text{N} \leftarrow 0.99 \times \text{N} + 0.01 \times \text{n_total}
 ```
 
+<div style="display: flex; gap: 10px;">
+  <img src="R_predicted frames/1.gif" width="500" height="500" alt="GIF 1">
+  <img src="R_predicted frames/2.gif" width="500" height="500" alt="GIF 2">
+  <img src="R_predicted frames/3.gif" width="500" height="500" alt="GIF 3">
+<img src="R_predicted frames/4.gif" width="500" height="500" alt="GIF 1">
+  <img src="R_predicted frames/5.gif" width="500" height="500" alt="GIF 2">
+  <img src="R_predicted frames/6.gif" width="500" height="500" alt="GIF 3">
+<img src="R_predicted frames/7.gif" width="500" height="500" alt="GIF 1">
+  <img src="R_predicted frames/8.gif" width="500" height="500" alt="GIF 2">
+ 
+</div>
 
 
 

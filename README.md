@@ -3,14 +3,14 @@ For the brain encoding task, subjects played the Shinobi video game while corres
 
 
 <div style="display: flex; gap: 10px;">
-  <img src="R_predicted frames/1.gif" width="200" height="200" alt="GIF 1">
-  <img src="R_predicted frames/2.gif" width="200" height="200" alt="GIF 2">
-  <img src="R_predicted frames/3.gif" width="200" height="200" alt="GIF 3">
-<img src="R_predicted frames/4.gif" width="200" height="200" alt="GIF 1">
-  <img src="R_predicted frames/5.gif" width="200" height="200" alt="GIF 2">
-  <img src="R_predicted frames/6.gif" width="200" height="200" alt="GIF 3">
-<img src="R_predicted frames/7.gif" width="200" height="200" alt="GIF 1">
-  <img src="R_predicted frames/8.gif" width="200" height="200" alt="GIF 2">
+  <img src="R_predicted frames/1.gif" width="400" height="400" alt="GIF 1">
+  <img src="R_predicted frames/2.gif" width="400" height="400" alt="GIF 2">
+  <img src="R_predicted frames/3.gif" width="400" height="400" alt="GIF 3">
+<img src="R_predicted frames/4.gif" width="400" height="400" alt="GIF 1">
+  <img src="R_predicted frames/5.gif" width="400" height="400" alt="GIF 2">
+  <img src="R_predicted frames/6.gif" width="400" height="400" alt="GIF 3">
+<img src="R_predicted frames/7.gif" width="400" height="400" alt="GIF 1">
+  <img src="R_predicted frames/8.gif" width="400" height="400" alt="GIF 2">
  
 </div>
 

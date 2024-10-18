@@ -1,5 +1,5 @@
 ### Paper: Link
-### Authorship:  Sana Ahmadi, François Paugam, Pierre Lune Bellec, Tristan Glatard
+### Authorship:  Sana Ahmadi, François Paugam, Tristan Glatard, Pierre Lune Bellec.
 
 # Computing Optimal Generative Models for Brain Encoding
 For the brain encoding task, subjects played the Shinobi video game while corresponding video data was recorded. We utilized a self-supervised generative model (GPT-2) to extract efficient spatiotemporal features from these videos. During the training process, the model aimed to predict the next sequence of frames based on the previous sequence of frames. Subsequently, we trained a Ridge regression model to predict brain activity based on these extracted features. 
